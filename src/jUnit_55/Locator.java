@@ -1,0 +1,10 @@
+package jUnit_55;
+
+public class Locator {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
