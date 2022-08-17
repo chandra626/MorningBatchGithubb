@@ -13,7 +13,7 @@ public class DemoArrayList {
 	  
   }
   @BeforeTest
-  public void beforeTest() throws InterruptedException {
+  public void beforeTest() throws Exception {
 	  Thread.sleep(5000);
 	  System.setProperty("webdriver.chrome.driver", "C:\\Users\\ChandraMohan\\Documents\\Lib\\chromedriver.exe");
 	  driver=new ChromeDriver();
